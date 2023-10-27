@@ -1,0 +1,7 @@
+## Terminal 1
+cd ~/workspace/build_demo
+./specific_cmake.sh
+
+## Terminal 2
+cd ~/workspace/build_demo/intel64/Release
+./run.sh
